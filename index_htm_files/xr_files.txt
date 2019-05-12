@@ -3,8 +3,6 @@ index.htm
 index.htm
 index_htm_files/1.png
 index_htm_files/1@2x.png
-index_htm_files/191.png
-index_htm_files/191@2x.png
 index_htm_files/192.jpg
 index_htm_files/192@2x.jpg
 index_htm_files/298.png
