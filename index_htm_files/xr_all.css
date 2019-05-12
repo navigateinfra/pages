@@ -1,10 +1,10 @@
-@media screen and (max-width: 719px) {
+@media screen and (max-width: 808px) {
 .xr_mvp_2 {display: block;}
 .xr_mvp_1 {display: none;}
-.xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 11091px}
+.xr_pbd {margin-left: -328px;}
+#xr_xr {width: 657px; height: 11091px}
 }
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 809px) {
 .xr_mvp_2 {display: none;}
 .xr_mvp_1 {display: block;}
 .xr_pbd {margin-left: -480px;}
