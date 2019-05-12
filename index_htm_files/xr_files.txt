@@ -41,3 +41,5 @@ index_htm_files/327@2x.png
 index_htm_files/337.png
 index_htm_files/337@2x.png
 index_htm_files/329@2x.png
+index_htm_files/340.jpg
+index_htm_files/340@2x.jpg
